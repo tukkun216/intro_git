@@ -2,3 +2,4 @@ GIT Test
 First change
 Git Add
 Git commit
+Git remove
