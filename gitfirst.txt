@@ -3,3 +3,4 @@ First change
 Git Add
 Git commit
 Git remove
+Git Status
